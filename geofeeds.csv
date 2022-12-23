@@ -12,8 +12,7 @@
 2a06:a005:d00::/44,SG,SG-SGP,Singapore
 2a0e:b107:6d0::/44,SG,SG-SGP,Singapore
 2404:f4c0:f810::/44,HK,,
-2404:f4c0:f810::/48,KR-SEO,Seoul
-2a06:a005:951::/48,DE,,
+2a06:a005:951::/44,DE,,
 2a06:a005:951::/48,DE,DE-FRA,Germany
 2a12:3fc2:e710::/44,DE,DE-FRA,Germany
 2a12:dd47:80d0::/44,US,
@@ -23,6 +22,7 @@
 
 
 
+#2404:f4c0:f810::/48,KR-SEO,Seoul
 
 
 
