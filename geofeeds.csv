@@ -7,6 +7,11 @@
 2406:840:e186::/48,CN,CN-HA,Zhengzhou
 2406:840:e187::/48,CN,CN-HA,Zhengzhou
 2406:840:e188::/48,CN,CN-GD,Guangzhou
+2a12:3fc2:e720::/44,ASIAN,,
+2a12:3fc2:e72f::/48,HK,HK-HKG,HongKong
+2a12:3fc2:e72e::/48,TW,TW-TPE,Taipei
+2a12:3fc2:e72d::/48,JP,JP-TKO,Tokyo
+2a12:3fc2:e72c::/48,KR,KR-SEO,Seoul
 2a0e:b107:ea2::/48,TW,TW-TPE,Taipei
 2a0e:b107:1a90::/44,JP,JP-TKO,Tokyo
 2a06:a005:d00::/44,SG,SG-SGP,Singapore
