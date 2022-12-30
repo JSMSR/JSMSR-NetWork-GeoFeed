@@ -1,11 +1,11 @@
 2406:840:e180::/44,CN,,
 2406:840:e180::/48,CN,CN-HN,Changsha
 2406:840:e182::/48,CN,CN-SH,Shanghai
-2406:840:e183::/48,CN,CN-HA,Zhengzhou
+2406:840:e183::/48,CN,CN-ZJ,Hangzhou
 2406:840:e184::/48,CN,CN-SD,Dezhou
 2406:840:e185::/48,CN,CN-HB,Wuhan
 2406:840:e186::/48,CN,CN-HA,Zhengzhou
-2406:840:e187::/48,CN,CN-ZJ,Hangzhou
+2406:840:e187::/48,CN,CN-HA,Zhengzhou
 2406:840:e188::/48,CN,CN-GD,Guangzhou
 2a0e:b107:ea2::/48,TW,TW-TPE,Taipei
 2a0e:b107:1a90::/44,JP,JP-TKO,Tokyo
