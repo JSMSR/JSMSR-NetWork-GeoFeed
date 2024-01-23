@@ -15,7 +15,7 @@
 2406:840:e18d::/48,HK,HK-HKG,HongKong
 2406:840:e18e::/48,HK,HK-HKG,HongKong
 2406:840:e18f::/48,HK,HK-HKG,HongKong
-2404:f4c0:f810::/44,ASIAN,,
+2404:f4c0:f810::/44,HK,,
 2404:f4c0:f81c::/48,HK,HK-HKG,HongKong
 2a12:3fc2:e72e::/48,TW,TW-TPE,Taipei
 2404:f4c0:f81d::/48,HK,HK-HKG,HongKong
@@ -33,17 +33,14 @@
 2a0e:b107:ea2::/48,TW,TW-TPE,Taipei
 2a06:a005:d00::/44,SG,SG-SGP,Singapore
 2a0e:b107:6d0::/44,SG,SG-SGP,Singapore
-2404:f4c0:f810::/44,HK,,
-2404:f4c0:f810::/48,HK,HK-HKG,HongKong
-2404:f4c0:f810::/48,KR,KR-SEO,Seoul
 2a06:a005:950::/44,DE,,
 2a06:a005:951::/48,DE,DE-FRA,Germany
 2a12:3fc2:e710::/44,DE,DE-FRA,Germany
 2a12:dd47:80d0::/44,US,,
 2a12:dd47:80d0::/48,US,US-CA,Fremont
-2a12:3fc2:e7f0::/44,USA,,
+2a12:3fc2:e7f0::/44,US,,
 2a0a:6040:7e00::/41,AQ,,
-2a0a:6040:7e20::/44,USA,,
+2a0a:6040:7e20::/44,US,,
 2a0a:6040:7e22::/48,US,US-WA,Seattle
 2a0a:6040:7e23::/48,US,US-CA,Fremont
 2a0a:6040:7e24::/48,US,US-CA,San Jose
@@ -55,12 +52,12 @@
 2a0a:6040:7e13::/48,DE,DE-FRA,Germany
 2a0a:6040:7e14::/48,DE,DE-FSN,Falkenstein
 2a0a:6040:7e15::/48,DK,DK-DMK,Copenhagen
-2602:f9f6:840::/42,USA,,
+2602:f9f6:840::/42,US,,
 2602:f9f6:840::/44,ASIAN,,
 2a0a:6040:7e00::/48,AQ,,
 2a0a:6040:7e30::/44,ASIAN,,
-2a0a:6040:7e31::/48,HK-HKG,HongKong
-2a0a:6040:7e32::/48,HK-HKG,HongKong
+2a0a:6040:7e31::/48,HK,HK-HKG,HongKong
+2a0a:6040:7e32::/48,HK,HK-HKG,HongKong
 2a0a:6040:7e33::/48,SG,SG-SGP,Singapore
 2a0a:6040:7e34::/48,MO,MO-MCO,Macao
 2a0a:6040:7e35::/48,SG,SG-SGP,Singapore
