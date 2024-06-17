@@ -1,5 +1,5 @@
-2602:F919:900::/40,Northern America
-2602:f919:900::/42,Northern America
+2602:F919:900::/40,Northern America,,
+2602:f919:900::/42,Northern America,,
 2602:f919:900::/44,SG,SG-SGP,Singapore
 2602:f919:910::/44,DE,DE-FRA,Germany
 2602:f919:920::/44,US,US-CA,San Jose
