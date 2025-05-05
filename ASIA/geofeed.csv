@@ -1,20 +1,5 @@
 2406:840:e180::/44,HK,HK-HKG,HongKong
-2602:F919:900::/40,Northern America,,
-2602:f919:900::/42,Northern America,,
 2602:f919:900::/44,SG,SG-SGP,Singapore
-2602:f919:910::/44,DE,DE-FRA,Germany
-2602:f919:910::/44,NL,NL-AMS,Netherlands
-2602:f919:911::/48,DE,DE-FRA,Germany
-2602:f919:912::/48,DE,DE-FRA,Frankfurt am Main
-2602:f919:913::/48,DE,DE-FRA,Germany
-2602:f919:914::/48,DE,DE-FRA,Germany
-2602:f919:920::/44,US,US-CA,San Jose
-2602:f919:921::/48,US,US-MO,Kansas City
-2602:f919:923::/48,US,US-WA,Seattle
-2602:f919:922::/48,US,US-CA,Fremont
-2602:f919:920::/48,US,US-CA,San Jose
-2602:f919:924::/48,US,US-CA,Los Angeles
-2602:f919:925::/48,US,US-TX,Dallas
 2602:f919:930::/44,JP,JP-TKO,Tokyo
 2602:f919:931::/48,JP,JP-KIX,Kyoto
 2602:f919:932::/48,JP,JP-TKO,Tokyo

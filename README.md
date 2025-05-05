@@ -1,2 +1,4 @@
 # JSMSR-NetWork-GeoFeed
 JSMSR-NetWork-GeoFeeds
+AS12198
+AS401009

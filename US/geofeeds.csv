@@ -1,7 +1,9 @@
-2a0a:6040:7e20::/44,US,, 
-2a0a:6040:7e21::/48,US,US-MO,Kansas City
-2a0a:6040:7e22::/48,US,US-WA,Seattle
-2a0a:6040:7e23::/48,US,US-CA,Fremont
-2a0a:6040:7e24::/48,US,US-CA,San Jose
-2a0a:6040:7e26::/48,US,US-CA,Los Angeles
-2a0a:6040:7e25::/48,US,US-TX,Dallas
+2602:f919:920::/44,US,,
+2602:f919:921::/48,US,US-MO,Kansas City
+2602:f919:923::/48,US,US-WA,Seattle
+2602:f919:922::/48,US,US-CA,Fremont
+2602:f919:920::/48,US,US-CA,San Jose
+2602:f919:924::/48,US,US-CA,Los Angeles
+2602:f919:925::/48,US,US-TX,Dallas
+2602:F919:900::/40,Northern America,,
+2602:f919:900::/42,Northern America,,
