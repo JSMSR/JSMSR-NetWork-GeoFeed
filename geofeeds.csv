@@ -1,8 +1,8 @@
-23.177.40.0/24,US,US-CA,El Segundo
+23.177.40.0/24,US,US-CA,Los Angeles
 2406:840:e180::/44,HK,HK-HKG,HongKong
-2602:F919:900::/40,Northern America,,
-2602:f919:900::/42,Northern America,,
-2602:F919:103::/48,US,US-CA,El Segundo
+2602:F919:900::/40,US,US,
+2602:f919:900::/42,US,US,
+2602:F919:103::/48,US,US-CA,Los Angeles
 2602:F919:104::/48,US,US-CA,Los Angeles
 2602:F919:106::/48,SG,SG-SGP,Singapore
 2602:F919:107::/48,SG,SG-SGP,Singapore
